@@ -53,7 +53,4 @@ include_in_header: true
 - 😊 Initial release on google playstore, HelloWorld !
 
 <br>
-________
-
-<br>
 
