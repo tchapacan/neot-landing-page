@@ -42,7 +42,7 @@ include_in_header: true
 <br>
 
 # **Version 1.0.56**
-- 🖧 Network connectivity enhancement
+- 🌐 Network connectivity enhancement
 - 🔨 Minors fixes on widget display
 - 🔨 Generic code optimization
 
@@ -50,7 +50,7 @@ include_in_header: true
 
 ### `Initial Release`
 # **Version 1.0.53**
-- 😊 Initial release on google playstore, HelloWorld !
+- 😊 Initial release on google playstore, HelloWorld
 
 <br>
 
